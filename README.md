@@ -1,2 +1,2 @@
 Fourier Transform for gray image
-![alt text](http://url/to/img.png)
+![DFT formula](https://github.com/manhcuong02/fourier_transform_for_image/blob/main/DFT.jpg)

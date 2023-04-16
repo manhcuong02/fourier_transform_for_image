@@ -1,1 +1,1 @@
-# fourier_transform_for_image
+Fourier Transform for gray image
